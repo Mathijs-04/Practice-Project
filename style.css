@@ -1,0 +1,19 @@
+html {
+    overflow: hidden;
+}
+
+.shrimmy {
+    transition: all 2s ease-out;
+}
+
+.shrimmy:hover {
+    transform: scale(10) translateX(40%) translateY(5%);
+}
+
+.crash {
+    transform: scale(1);
+}
+
+.crash:hover {
+    cursor: wait;
+}
