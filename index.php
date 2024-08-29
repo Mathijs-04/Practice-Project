@@ -14,6 +14,7 @@
     <title>Practice</title>
 </head>
 <body>
+<a href="php.php">OMW PHP</a>
 <form action="" id="form">
     <div>
         <label for="test">Value:</label>
