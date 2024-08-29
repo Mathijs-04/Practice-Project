@@ -26,3 +26,11 @@ html {
 #pills {
     transform: scaleX(-1);
 }
+
+.secret {
+    transition: all 2s ease-out;
+}
+
+.secret:hover {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg) scale(3) matrix(3);
+}
