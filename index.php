@@ -1,5 +1,4 @@
 <?php
-// PHP code goes here
 ?>
 
 <!doctype html>

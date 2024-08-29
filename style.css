@@ -17,3 +17,12 @@ html {
 .crash:hover {
     cursor: wait;
 }
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+#pills {
+    transform: scaleX(-1);
+}
