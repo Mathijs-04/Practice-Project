@@ -20,10 +20,10 @@
         <input type="text" id="test" name="test">
     </div>
     <div>
-        <input type="submit" value="submit" class="secret">
+        <input type="submit" value="submit">
     </div>
     <div>
-            <a href="secret.php" class="secret">Click Me!</a>
+            <a href="secret.php">Click Me!</a>
     </div>
 </body>
 </html>
