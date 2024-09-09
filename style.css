@@ -31,3 +31,8 @@ html {
     width: 75%;
     height: 75%;
 }
+
+#pills {
+    width: 32rem;
+    height: 18rem;
+}
