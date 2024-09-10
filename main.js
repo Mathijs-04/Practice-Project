@@ -27,8 +27,13 @@ function showResult() {
         crash.classList.add('crash');
         crash.src = "./img/Crash.gif"
         document.body.appendChild(crash);
-
+    } else if(result === "UserId = 1 OR 1=1;") {
+        const hack = document.createElement("img");
+        hack.classList.add('hack');
+        hack.src = "./img/Hack.gif"
+        document.body.appendChild(hack);
     } else {
         p.innerText = result;
+
     }
 }
